@@ -163,16 +163,7 @@ sudo ./my_program restore
 
 ## Лицензия
 
-LICENSE MIT:
-MIT License
-
-Copyright (c) 2026 Davud
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software.
+Этот проект предоставляется в том виде, в каком он есть, для образовательного и личного использования.
 
 ## Примечания
 
