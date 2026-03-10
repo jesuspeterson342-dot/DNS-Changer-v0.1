@@ -286,7 +286,7 @@ Planned features and improvements:
 
 ## License
 
-This project is provided as-is for educational and personal use.
+MIT License
 
 ## Screenshots
 
